@@ -1,0 +1,431 @@
+1593590037202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asd\\AppData\\Local\\Temp\\rust_mozprofileXkyt1h"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593590040279	Marionette	INFO	Listening on port 61344
+1593590040337	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+1593590086833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asd\\AppData\\Local\\Temp\\rust_mozprofileKO8poN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593590089865	Marionette	INFO	Listening on port 61420
+1593590089962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/view/mohurd/index.html#/app/navHome, line 1: Error: Loading chunk 0 failed.
+(error: http://192.168.101.10:8095/eUrbanMISzjb/view/mohurd/static/js/common.f367b092.chunk.js)
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/view/mohurd/static/js/4.04ac80a8.chunk.js, line 1: TypeError: e.data is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/view/misbuilder/organization/unit.js?bust=1593590406718, line 173: TypeError: _selectPatrolTypes is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593590406718, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/view/mohurd/static/js/4.04ac80a8.chunk.js, line 1: TypeError: e.data is undefined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593591147747, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593591147747, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593591147747, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593591147747, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593591147747, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593591147747, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593591147747, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593591147747, line 1: TypeError: t is undefined
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593591147747, line 1: TypeError: t is undefined
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593591147747, line 1: TypeError: t is undefined
+1593607682540	Marionette	INFO	Stopped listening on port 61420
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/view/mohurd/index.html#/app/navHome, line 1: Error: Loading chunk 1 failed.
+(error: http://192.168.101.10:8095/eUrbanMISzjb/view/mohurd/static/js/venders.45bae269.chunk.js)
+console.error: services.settings: 
+DOMException
+  - prototype DOMException
+    - ABORT_ERR = 20
+    - DATA_CLONE_ERR = 25
+    - DOMSTRING_SIZE_ERR = 2
+    - HIERARCHY_REQUEST_ERR = 3
+    - INDEX_SIZE_ERR = 1
+    - INUSE_ATTRIBUTE_ERR = 10
+    - INVALID_ACCESS_ERR = 15
+    - INVALID_CHARACTER_ERR = 5
+    - INVALID_MODIFICATION_ERR = 13
+    - INVALID_NODE_TYPE_ERR = 24
+    - INVALID_STATE_ERR = 11
+    - NAMESPACE_ERR = 14
+    - NETWORK_ERR = 19
+    - NOT_FOUND_ERR = 8
+    - NOT_SUPPORTED_ERR = 9
+    - NO_DATA_ALLOWED_ERR = 6
+    - NO_MODIFICATION_ALLOWED_ERR = 7
+    - QUOTA_EXCEEDED_ERR = 22
+    - SECURITY_ERR = 18
+    - SYNTAX_ERR = 12
+    - TIMEOUT_ERR = 23
+    - TYPE_MISMATCH_ERR = 17
+    - URL_MISMATCH_ERR = 21
+    - VALIDATION_ERR = 16
+    - WRONG_DOCUMENT_ERR = 4
+    - code = 20
+    - columnNumber = 0
+    - data = null
+    - filename = 
+    - lineNumber = 0
+    - location = null
+    - message = The operation was aborted. 
+    - name = AbortError
+    - result = 2152923156
+    - stack = 
+  - prototype Error
+  - prototype Object
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: Networkconsole.error: services.settings: 
+DOMExc1593607682646	Marionette	INFO	Stopped listening on port 61766
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ - INDEX_SIZE_ERR = 1
+    - INUSE_ATTRIBUTE_ERR = 10
+    - INVALID_ACCESS_ERR = 15
+    - INVALID_CHARACTER_ERR = 5
+    - INVALID_MODIFICATION_ERR = 13
+    - INVALID_NODE_TYPE_ERR = 24
+    - INVALID_STATE_ERR = 11
+    - NAMESPACE_ERR = 14
+    - NETWORK_ERR = 19
+    - NOT_FOUND_ERR = 8
+    - NOT_SUPPORTED_ERR = 9
+    - NO_DATA_ALLOWED_ERR = 6
+    - NO_MODIFICATION_ALLOWED_ERR = 7
+    - QUOTA_EXCEEDED_ERR = 22
+    - SECURITY_ERR = 18
+    - SYNTAX_ERR = 12
+    - TIMEOUT_ERR = 23
+    - TYPE_MISMATCH_ERR = 17
+    - URL_MISMATCH_ERR = 21
+    - VALIDATION_ERR = 16
+    - WRONG_DOCUMENT_ERR = 4
+    - code = 20
+    - columnNumber = 0
+    - data = null
+    - filename = 
+    - lineNumber = 0
+    - location = null
+    - message = The operation was aborted. 
+    - name = AbortError
+    - result = 2152923156
+    - stack = 
+  - prototype Error
+  - prototype Object
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1593607682547	Marionette	INFO	Stopped listening on port 61823
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593655074098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asd\\AppData\\Local\\Temp\\rust_mozprofileRlm01a"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593655077482	Marionette	INFO	Listening on port 50951
+1593655077728	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 203: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://27.17.34.18:8082/eUrbanMIS0601hotfix/library/urban/verify/js/verify.js, line 43: TypeError: this.$element[0] is undefined
+JavaScript error: http://27.17.34.18:8082/eUrbanMIS0601hotfix/library/urban/verify/js/verify.js, line 43: TypeError: this.$element[0] is undefined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error sending event: serverWebSocketClosed"
+console.error: (new Error("undefined passed where a value is required", "resource://devtools/shared/protocol/types.js", 115))
+Error: undefined passed where a value is required: identityWrite@resource://devtools/shared/protocol/types.js:115:11
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+webSocketClosed@resource://devtools/server/actors/network-monitor/websocket-actor.js:96:10
+
+console.error: services.settings: 
+DOMException
+  console.error: services.settings: 
+DOMException
+  - prototype DOMException
+    - ABORT_ERR = 20
+    - DATA_CLONE_ERR = 25
+    - DOMSTRING_SIZE_ERR = 2
+    - HIERARCHY_REQUEST_ERR = 3
+    - INDEX_SIZE_ERR = 1
+    - INUSE_ATTRIBUTE_ERR = 10
+    - INVALID_ACCESS_ERR = 15
+    - INVALID_CHARACTER_ERR = 5
+    - INVALID_MODIFICATION_ERR = 13
+    - INVALID_NODE_TYPE_ERR = 24
+    - INVALID_STATE_ERR = 11
+    - NAMESPACE_ERR = 14
+    - NETWORK_ERR = 19
+    - NOT_FOUND_ERR = 8
+    - NOT_SUPPORTED_ERR = 9
+    - NO_DATA_ALLOWED_ERR = 6
+    - NO_MODIFICATION_ALLOWED_ERR = 7
+    - QUOTA_EXCEEDED_ERR = 22
+    - SECURITY_ERR = 18
+    - SYNTAX_ERR = 12
+    - TIMEOUT_ERR = 23
+    - TYPE_MISMATCH_ERR = 17
+    - URL_MISMATCH_ERR = 21
+    - VALIDATION_ERR = 16
+    - WRONG_DOCUMENT_ERR = 4
+    - code = 20
+    - columnNumber = 0
+    - data = null
+    - filename = 
+    - lineNumber = 0
+    - location = null
+    - message = The operation was aborted. 
+    - name = AbortError
+    - result = 2152923156
+    - stack = 
+  - prototype Error
+  - prototype Object
+console.error: services.settings: 
+DOMException
+  - prototype DOMException
+    - ABORT_ERR = 20
+    - DATA_CLONE_ERR = 25
+    - DOMSTRING_SIZE_ERR = 2
+    - HIERARCHY_REQUEST_ERR = 3
+    - INDEX_SIZE_ERR = 1
+    - INUSE_ATTRIBUTE_ERR = 10
+    - INVALID_ACCESS_ERR = 15
+    - INVALID_CHARACTER_ERR = 5
+    - INVALID_MODIFICATION_ERR = 13
+    - INVALID_NODE_TYPE_ERR = 24
+    - INVALID_STATE_ERR = 11
+    - NAMESPACE_ERR = 14
+    - NETWORK_ERR = 19
+    - NOT_FOUND_ERR = 8
+    - NOT_SUPPORTED_ERR = 9
+    - NO_DATA_ALLOWED_ERR = 6
+    - NO_MODIFICATION_ALLOWED_ERR = 7
+    - QUOTA_EXCEEDED_ERR = 22
+    - SECURITY_ERR = 18
+    - SYNTAX_ERR = 12
+    - TIMEOUT_ERR = 23
+    - TYPE_MISMATCH_ERR = 17
+    - URL_MISMATCH_ERR = 21
+    - VALIDATION_ERR = 16
+    - WRONG_DOCUMENT_ERR = 4
+    - code = 20
+    - columnNumber = 0
+    - data = null
+    - filename = 
+    - lineNumber = 0
+    - location = null
+    - message = The operation was aborted. 
+    - name = AbortError
+    - result = 2152923156
+    - stack = 
+  - prototype Error
+  - prototype Object
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+1593659692922	Marionette	INFO	Stopped listening on port 51273
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vices.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: http://27.17.34.18:8082/eUrbanMIS0601hotfix/view/wfbuilder/act-edit.js, line 684: unreachable code after return statement
+JavaScript warning: http://27.17.34.18:8082/eUrbanMIS0601hotfix/view/wfbuilder/act-edit.js, line 684: unreachable code after return statement
+1593659693872	Marionette	INFO	Stopped listening on port 50951
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+webSocketClosed@resource://devtools/server/actors/network-monitor/websocket-actor.js:96:10
+
+console.error: services.settings: 
+DOMException
+  - prototype DOMException
+    - ABORT_ERR = 20
+    - DATA_CLONE_ERR = 25
+    - DOMSTRING_SIZE_ERR = 2
+    - HIERARCHY_REQUEST_ERR = 3
+    - INDEX_SIZE_ERR = 1
+    - INUSE_ATTRIBUTE_ERR = 10
+    - INVALID_ACCESS_ERR = 15
+    - INVALID_CHARACTER_ERR = 5
+    - INVALID_MODIFICATION_ERR = 13
+    - INVALID_NODE_TYPE_ERR = 24
+    - INVALID_STATE_ERR = 11
+    - NAMESPACE_ERR = 14
+    - NETWORK_ERR = 19
+    - NOT_FOUND_ERR = 8
+    - NOT_SUPPORTED_ERR = 9
+    - NO_DATA_ALLOWED_ERR = 6
+    - NO_MODIFICATION_ALLOWED_ERR = 7
+    - QUOTA_EXCEEDED_ERR = 22
+    - SECURITY_ERR = 18
+    - SYNTAX_ERR = 12
+    - TIMEOUT_ERR = 23
+    - TYPE_MISMATCH_ERR = 17
+    - URL_MISMATCH_ERR = 21
+    - VALIDATION_ERR = 16
+    - WRONG_DOCUMENT_ERR = 4
+    - code = 20
+    - columnNumber = 0
+    - data = null
+    - filename = 
+    - lineNumber = 0
+    - location = null
+    - message = The operation was aborted. 
+    - name = AbortError
+    - result = 2152923156
+    - stack = 
+  - prototype Error
+  - prototype Object
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+1593659692160	Marionette	INFO	Stopped listening on port 51975
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593670226237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asd\\AppData\\Local\\Temp\\rust_mozprofilet2Ddpr"
+1593670253129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asd\\AppData\\Local\\Temp\\rust_mozprofilejd6dMf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593670256205	Marionette	INFO	Listening on port 61287
+1593670256261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/view/mohurd/index.html#/app/navHome, line 1: Error: Loading chunk 1 failed.
+(error: http://192.168.101.10:8095/eUrbanMISzjb/view/mohurd/static/js/venders.45bae269.chunk.js)
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/productionLibrary/3rdparty/jquery/selectize/selectize-0.11.2.min.js?bust=1593670271568, line 1: TypeError: t is undefined
+1593680626527	Marionette	INFO	Stopped listening on port 61287
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/view/mohurd/index.html#/app/navHome, line 1: Error: Loading chunk 1 failed.
+(error: http://192.168.101.10:8095/eUrbanMISzjb/view/mohurd/static/js/venders.45bae269.chunk.js)
+JavaScript error: , line 0: uncaught exception: Object
+console.error: services.settings: 
+DOMException
+  - prototype DOMException
+    - ABORT_ERR = 20
+    - DATA_CLONE_ERR = 25
+    - DOMSTRING_SIZE_ERR = 2
+    - HIERARCHY_REQUEST_ERR = 3
+    - INDEX_SIZE_ERR = 1
+    - INUSE_ATTRIBUTE_ERR = 10
+    - INVALID_ACCESS_ERR = 15
+    - INVALID_CHARACTER_ERR = 5
+    - INVALID_MODIFICATION_ERR = 13
+    - INVALID_NODE_TYPE_ERR = 24
+    - INVALID_STATE_ERR = 11
+    - NAMESPACE_ERR = 14
+    - NETWORK_ERR = 19
+    - NOT_FOUND_ERR = 8
+    - NOT_SUPPORTED_ERR = 9
+    - NO_DATA_ALLOWED_ERR = 6
+    - NO_MODIFICATION_ALLOWED_ERR = 7
+    - QUOTA_EXCEEDED_ERR = 22
+    - SECURITY_ERR = 18
+    - SYNTAX_ERR = 12
+    - TIMEOUT_ERR = 23
+    - TYPE_MISMATCH_ERR = 17
+    - URL_MISMATCH_ERR = 21
+    - VALIDATION_ERR = 16
+    - WRONG_DOCUMENT_ERR = 4
+    - code = 20
+    - columnNumber = 0
+    - data = null
+    - filename = 
+    - lineNumber = 0
+    - location = null
+    - message = The operation was aborted. 
+    - name = AbortError
+    - result = 2152923156
+    - stack = 
+  - prototype Error
+  - prototype Object
+1593680625657	Marionette	INFO	Stopped listening on port 61442
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593741122785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\asd\\AppData\\Local\\Temp\\rust_mozprofile2cWeRe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593741126070	Marionette	INFO	Listening on port 62353
+1593741126440	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: http://192.168.101.10:8095/eUrbanMISzjb/view/mohurd/index.html#/app/navHome, line 1: Error: Loading chunk 1 failed.
+(error: http://192.168.101.10:8095/eUrbanMISzjb/view/mohurd/static/js/venders.45bae269.chunk.js)
